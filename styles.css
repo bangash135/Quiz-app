@@ -1,0 +1,61 @@
+*{
+
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+body{
+     background: lightcoral;
+     padding: 5rem;
+      
+     
+}
+
+
+input.info{
+    position: relative;
+    border-radius: 1rem;
+    padding: 1rem;
+    margin: 1rem 0;
+    width: 90%;
+    box-shadow: 0 .3rem .8rem 0 rgba(0, 0, 0, 0.2);
+    border: none;
+    font-size: 1rem;
+    
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+
+.container{
+    border-radius: 1.5rem;
+    text-align: center;
+    padding: 3rem;
+    width: 30%;
+    position: relative;
+    background-color: #fff;
+    box-shadow: 0 .3rem .8rem 0 rgba(0, 0, 0, 0.2), 0 .3rem 20px 0 rgba(0, 0, 0, 0.19);
+    left: 28rem;
+    top:2rem;
+}
+.btn{
+    width: 98%;
+    border-radius: 1rem;
+    padding: .9rem;
+    box-shadow: 0 .3rem .8rem 0 rgba(0, 0, 0, 0.2);
+    border: none;
+    background-color: rgb(199, 199, 199);
+    margin: 1rem 0;
+    font-size: large;
+}
+.quiz{
+    border-radius: 4rem;
+    padding: 4rem;
+    width: 80%;
+    position: relative;
+    background-color: #fff;
+    box-shadow: 0 .3rem .8rem 0 rgba(0, 0, 0, 0.2), 0 .3rem 20px 0 rgba(0, 0, 0, 0.19);
+
+}
